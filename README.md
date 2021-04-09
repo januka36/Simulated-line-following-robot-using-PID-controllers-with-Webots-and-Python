@@ -21,15 +21,17 @@ The bot is having 3 LEDs on its upper surface in one line (left to right, when s
 <h2>Screenshots</h3>
 
 <p align="center">
-  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/Capture.JPG" width="550" title="hover text">
+  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/Capture.JPG" width="550" title="hover text"></p>
+<p align="center">  
   <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6.png" width="550" title="hover text">
 </p>
 <p align="center">
-  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6_1.png" width="550" title="hover text">
+  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6_1.png" width="550" title="hover text"></p>
+<p align="center">  
   <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6_2.png" width="550" title="hover text">
 </p>
 
 <h3>Video</h3>
 
-[![Watch the video]"https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6.png"](https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/Video/video.mp4)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
