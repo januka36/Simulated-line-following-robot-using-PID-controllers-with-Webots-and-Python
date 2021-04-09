@@ -34,5 +34,5 @@ The bot is having 3 LEDs on its upper surface in one line (left to right, when s
 <h3>Video</h3>
 
 
-[![Watch the video]https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6.png](https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/Video/video.mp4)
+[![Watch the video](https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6.png)](https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/Video/video.mp4)
 
