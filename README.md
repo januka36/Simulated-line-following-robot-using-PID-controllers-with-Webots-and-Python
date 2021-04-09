@@ -22,4 +22,14 @@ The bot is having 3 LEDs on its upper surface in one line (left to right, when s
 
 <p align="center">
   <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/Capture.JPG" width="350" title="hover text">
+  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/Capture.JPG" width="350" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/Capture.JPG" width="350" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/Capture.JPG" width="350" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/Capture.JPG" width="350" title="hover text">
 </p>
