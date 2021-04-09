@@ -29,3 +29,6 @@ The bot is having 3 LEDs on its upper surface in one line (left to right, when s
   <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6_2.png" width="350" title="hover text">
 </p>
 
+<h3>Video</h3>
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
